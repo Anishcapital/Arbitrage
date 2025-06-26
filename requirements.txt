@@ -1,0 +1,16 @@
+selenium 
+undetected-chromedriver 
+pandas 
+openpyxl 
+pillow 
+opencv-python 
+pytesseract 
+paddleocr 
+matplotlib 
+playwright 
+regex 
+fuzzywuzzy 
+python-Levenshtein 
+rapidfuzz 
+numpy
+beautifulsoup4
